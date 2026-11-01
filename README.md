@@ -91,7 +91,7 @@ run -all
 ## Key parameters
 
 | Item | Value |
-| ---  | ---   |
+| --- | --- |
 | System clock | 50 MHz |
 | Pixel rate | 25 MHz |
 | Game tick | 100 Hz (`MOVE_DIVISOR` = 500000) |
